@@ -2,4 +2,4 @@
 
 Hello humans.
 
-I like computer chess.
+I like computer chess, but not running.
